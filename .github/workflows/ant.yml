@@ -21,7 +21,4 @@ jobs:
       with:
         java-version: '11'
         distribution: 'adopt'
-    - run: npm ci
-    - run: npm test
-    - run: npm run build
 

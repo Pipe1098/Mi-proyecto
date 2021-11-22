@@ -31,7 +31,7 @@ public class Principal {
                         String choice1;
                         do {
                             store.add();
-                            System.out.println ("¿Desea continuar agregando? \n" + "1. Sí 2. Noo");
+                            System.out.println ("¿Desea continuar agregando? \n" + "1. Sí 2. No");
                             choice1 = input.next();
                         } while(choice1.equals("1"));
                         System.out.println ("¿Qué otro servicio necesita?");
