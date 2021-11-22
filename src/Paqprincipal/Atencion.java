@@ -23,7 +23,7 @@ public class Atencion {
 
 
         } else if (n == 2) {
-            System.out.println("Espera tuu turno");
+            System.out.println("Espera tu turno");
         } else {
             System.out.println("hasta pronto");
         }
