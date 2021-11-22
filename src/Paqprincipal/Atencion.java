@@ -21,7 +21,7 @@ public class Atencion {
         } else if (n == 2) {
             System.out.println("Espere su turno");
         } else {
-            System.out.println("hasta luego");
+            System.out.println("hasta pronto");
         }
 
     }
